@@ -28,7 +28,7 @@
 
 ## 🧪 Demo
 
-https://user-images.githubusercontent.com/your_username_here/flickmatch-demo.mp4  
+https://user-images.githubusercontent.com/your_username_here/flickmatch_demo.mp4  
 *(Insert a short screen recording or gif if possible)*
 
 ---
@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/your_username_here/flickmatch-demo.mp4
 ## 🖼️ UI Preview
 
 <p align="center">
-  <img src="screenshots/flickmatch_ui.png" alt="FlickMatch UI" width="700"/>
+  <img src="flickmatch_ui.png" alt="FlickMatch UI" width="700"/>
 </p>
 
 ---
