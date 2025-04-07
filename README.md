@@ -28,8 +28,8 @@
 
 ## 🧪 Demo
 
-https://user-images.githubusercontent.com/your_username_here/flickmatch_demo.mp4  
-*(Insert a short screen recording or gif if possible)*
+https://github.com/amritha1611/flickmatch/blob/main/flickmatch_demo.mp4  
+*(Click to watch a short screen recording of the app in action!)*
 
 ---
 
