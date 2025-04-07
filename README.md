@@ -26,13 +26,6 @@
 
 ---
 
-## 🧪 Demo
-
-https://github.com/amritha1611/flickmatch/blob/main/flickmatch_demo.mp4  
-*(Click to watch a short screen recording of the app in action!)*
-
----
-
 ## 🖼️ UI Preview
 
 <p align="center">
