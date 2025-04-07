@@ -2,7 +2,7 @@
 
 **FlickMatch** is a smart AI-powered app that helps you identify the **most relevant movie or series** by analyzing uploaded **audio clips**. Whether it's a snippet of dialogue or narration, FlickMatch finds the best match using **AI transcription** and **semantic search**.
 
-![FlickMatch Screenshot](screenshots/flickmatch_ui.png)
+![FlickMatch Screenshot](flickmatch_ui.png)
 
 ---
 
